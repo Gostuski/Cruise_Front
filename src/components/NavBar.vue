@@ -17,7 +17,7 @@
 </template>
 <style scoped>
 .navbar-brand {
-	font-family: 'Comic Sans MS', cursive, sans-serif;
+	font-family: 'Times New Roman', serif;
 	letter-spacing: 1.4px;
 	word-spacing: 1.4px;
 	color: #a5001c !important;

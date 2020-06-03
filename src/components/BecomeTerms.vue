@@ -8,7 +8,7 @@
 			</b-col>
 		</b-row>
 		<b-row align-h="center">
-			<b-col sm="3">
+			<b-col sm="4">
 				<b-form-textarea
 					id="textarea-rows"
 					placeholder="Tall textarea"
