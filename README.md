@@ -1,4 +1,4 @@
-# project_icr
+# Front-end for a Uber like application
 
 ## Project setup
 ```
